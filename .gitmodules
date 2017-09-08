@@ -1,0 +1,3 @@
+[submodule "ZPUino-HDL-source"]
+	path = ZPUino-HDL-source
+	url = https://github.com/alvieboy/ZPUino-HDL.git

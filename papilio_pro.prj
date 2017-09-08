@@ -56,5 +56,3 @@ vhdl work "ZPUino-HDL-source/zpu/hdl/zpuino/gh_vhdl_lib/memory/gh_fifo_async_rrd
 vhdl work "ZPUino-HDL-source/zpu/hdl/zpuino/gh_vhdl_lib/memory/gh_sram_1wp_2rp_sc.vhd"
 vhdl work "ZPUino-HDL-source/zpu/hdl/zpuino/gh_vhdl_lib/custom_MSI/gh_binary2gray.vhd"
 vhdl work "ZPUino-HDL-source/zpu/hdl/zpuino/gh_vhdl_lib/custom_MSI/gh_gray2binary.vhd"
-vhdl work "ZPUino-HDL-source/zpu/hdl/zpuino/lib/memory/ocram.vhd"
-vhdl work "ZPUino-HDL-source/zpu/hdl/zpuino/lib/memory/generic_sp_ram.vhd"
